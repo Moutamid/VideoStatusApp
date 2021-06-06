@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "90916329031",
+    "firebase_url": "https://status-video-db870-default-rtdb.firebaseio.com",
+    "project_id": "status-video-db870",
+    "storage_bucket": "status-video-db870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90916329031:android:ba04fa0806817d56a50362",
+        "android_client_info": {
+          "package_name": "com.example.adminstatusvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90916329031-hpn8c4vsom5asssrubgpqo6nt0j34e3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCuCviwweQeBS5OXHXyRl1CLss-vS0Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90916329031-hpn8c4vsom5asssrubgpqo6nt0j34e3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90916329031:android:59c01968d67f8c09a50362",
+        "android_client_info": {
+          "package_name": "com.example.videostatusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90916329031-hpn8c4vsom5asssrubgpqo6nt0j34e3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCuCviwweQeBS5OXHXyRl1CLss-vS0Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90916329031-hpn8c4vsom5asssrubgpqo6nt0j34e3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
